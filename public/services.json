@@ -1,0 +1,43 @@
+[{
+    "id": 1,
+    "name": "Repaire Tire",
+    "Price": 2000,
+    "Time": 2,
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ad consectetur iure fugit voluptatibus, dolor eum id maxime ipsum. Laborum?",
+    "img": "https://i.ibb.co/ZgCctLQ/1.jpg"
+}, {
+    "id": 2,
+    "name": "Repaire Tire",
+    "Price": 2000,
+    "Time": 2,
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ad consectetur iure fugit voluptatibus, dolor eum id maxime ipsum. Laborum?",
+    "img": "https://i.ibb.co/sm92470/2.jpg"
+}, {
+    "id": 3,
+    "name": "Repaire Tire",
+    "Price": 2000,
+    "Time": 2,
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ad consectetur iure fugit voluptatibus, dolor eum id maxime ipsum. Laborum?",
+    "img": "https://i.ibb.co/6JkC3MQ/3.jpg"
+}, {
+    "id": 4,
+    "name": "Repaire Tire",
+    "Price": 2000,
+    "Time": 2,
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ad consectetur iure fugit voluptatibus, dolor eum id maxime ipsum. Laborum?",
+    "img": "https://i.ibb.co/HX2KgY4/4.jpg"
+}, {
+    "id": 5,
+    "name": "Repaire Tire",
+    "Price": 2000,
+    "Time": 2,
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ad consectetur iure fugit voluptatibus, dolor eum id maxime ipsum. Laborum?",
+    "img": "https://i.ibb.co/RYmP9vn/5.jpg"
+}, {
+    "id": 6,
+    "name": "Repaire Tire",
+    "Price": 2000,
+    "Time": 2,
+    "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis ad consectetur iure fugit voluptatibus, dolor eum id maxime ipsum. Laborum?",
+    "img": "https://i.ibb.co/J3hbrfM/6.jpg"
+}]
